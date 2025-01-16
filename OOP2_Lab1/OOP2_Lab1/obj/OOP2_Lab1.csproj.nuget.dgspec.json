@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ClassWorkSpace\\OOP2\\Lab\\Lab1\\OOP2_Lab1\\OOP2_Lab1\\OOP2_Lab1.csproj": {}
+    "D:\\ClassWorkSpace\\OOP2\\Lab\\Lab1\\Lab1_GitHub\\OOP2_Lab1\\OOP2_Lab1\\OOP2_Lab1.csproj": {}
   },
   "projects": {
-    "D:\\ClassWorkSpace\\OOP2\\Lab\\Lab1\\OOP2_Lab1\\OOP2_Lab1\\OOP2_Lab1.csproj": {
+    "D:\\ClassWorkSpace\\OOP2\\Lab\\Lab1\\Lab1_GitHub\\OOP2_Lab1\\OOP2_Lab1\\OOP2_Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ClassWorkSpace\\OOP2\\Lab\\Lab1\\OOP2_Lab1\\OOP2_Lab1\\OOP2_Lab1.csproj",
+        "projectUniqueName": "D:\\ClassWorkSpace\\OOP2\\Lab\\Lab1\\Lab1_GitHub\\OOP2_Lab1\\OOP2_Lab1\\OOP2_Lab1.csproj",
         "projectName": "OOP2_Lab1",
-        "projectPath": "D:\\ClassWorkSpace\\OOP2\\Lab\\Lab1\\OOP2_Lab1\\OOP2_Lab1\\OOP2_Lab1.csproj",
+        "projectPath": "D:\\ClassWorkSpace\\OOP2\\Lab\\Lab1\\Lab1_GitHub\\OOP2_Lab1\\OOP2_Lab1\\OOP2_Lab1.csproj",
         "packagesPath": "C:\\Users\\monic\\.nuget\\packages\\",
-        "outputPath": "D:\\ClassWorkSpace\\OOP2\\Lab\\Lab1\\OOP2_Lab1\\OOP2_Lab1\\obj\\",
+        "outputPath": "D:\\ClassWorkSpace\\OOP2\\Lab\\Lab1\\Lab1_GitHub\\OOP2_Lab1\\OOP2_Lab1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
