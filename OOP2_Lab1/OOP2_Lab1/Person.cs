@@ -11,14 +11,22 @@ namespace OOP2_Lab1
 {
     internal class Person
     {
-        private int personId;
-        private string firstName;
-        private string lastName;
-        private string favoriteColor;
-        private int age;
-        private bool isWorking;
+        public int personId { get; set; }
+        public string firstName { get; set; }
+        public string lastName { get; set; }
+        public string favoriteColor { get; set; }
+        public int age { get; set; }
+        public bool isWorking { get; set; }
         string Name;
-
+        /// <summary>
+        /// constructor
+        /// </summary>
+        /// <param name="personId"></param>
+        /// <param name="firstName"></param>
+        /// <param name="lastName"></param>
+        /// <param name="favoriteColor"></param>
+        /// <param name="age"></param>
+        /// <param name="isWorking"></param>
         public Person(int personId, string firstName, string lastName, string favoriteColor, int age, bool isWorking)
         {
             this.personId = personId;
@@ -34,15 +42,9 @@ namespace OOP2_Lab1
         /// <summary>
         /// print out info
         /// </summary>
-        /// <param name="personId"></param>
-        /// <param name="firstName"></param>
-        /// <param name="lastName"></param>
-        /// <param name="favoriteColor"></param>
-        /// <param name="age"></param>
-        /// <param name="isWorking"></param>
         public void DisplayPersonInfo() 
         {
-            Console.WriteLine($"{personId}: {Name}’s favorite colour is {favoriteColor}");
+            Console.WriteLine($"{personId}: {Name}’s favorite colour is: {favoriteColor}");
         }
         /// <summary>
         /// changes the person’s favorite colour to white
@@ -50,7 +52,7 @@ namespace OOP2_Lab1
         public void ChangeFavoriteColour() 
         {
            
-            this.favoriteColor = "white";
+            this.favoriteColor = "White";
 
         }
         /// <summary>

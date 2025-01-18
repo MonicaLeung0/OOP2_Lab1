@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\ClassWorkSpace\\OOP2\\Lab\\Lab1\\Lab1_GitHub\\OOP2_Lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F6EB0AB-0FF8-4F81-B678-FFC3E3930627}|OOP2_Lab1\\OOP2_Lab1.csproj|d:\\classworkspace\\oop2\\lab\\lab1\\lab1_github\\oop2_lab1\\oop2_lab1\\relation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F6EB0AB-0FF8-4F81-B678-FFC3E3930627}|OOP2_Lab1\\OOP2_Lab1.csproj|solutionrelative:oop2_lab1\\relation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F6EB0AB-0FF8-4F81-B678-FFC3E3930627}|OOP2_Lab1\\OOP2_Lab1.csproj|d:\\classworkspace\\oop2\\lab\\lab1\\lab1_github\\oop2_lab1\\oop2_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F6EB0AB-0FF8-4F81-B678-FFC3E3930627}|OOP2_Lab1\\OOP2_Lab1.csproj|solutionrelative:oop2_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6EB0AB-0FF8-4F81-B678-FFC3E3930627}|OOP2_Lab1\\OOP2_Lab1.csproj|d:\\classworkspace\\oop2\\lab\\lab1\\lab1_github\\oop2_lab1\\oop2_lab1\\relation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6EB0AB-0FF8-4F81-B678-FFC3E3930627}|OOP2_Lab1\\OOP2_Lab1.csproj|solutionrelative:oop2_lab1\\relation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F6EB0AB-0FF8-4F81-B678-FFC3E3930627}|OOP2_Lab1\\OOP2_Lab1.csproj|d:\\classworkspace\\oop2\\lab\\lab1\\lab1_github\\oop2_lab1\\oop2_lab1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,7 +25,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,18 +39,17 @@
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.CSharp.Core.targets",
               "ViewState": "AgIAAEMAAAAAAAAAAAAnwFgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-01-14T16:49:52.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T16:49:52.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Relation.cs",
               "DocumentMoniker": "D:\\ClassWorkSpace\\OOP2\\Lab\\Lab1\\Lab1_GitHub\\OOP2_Lab1\\OOP2_Lab1\\Relation.cs",
               "RelativeDocumentMoniker": "OOP2_Lab1\\Relation.cs",
               "ToolTip": "D:\\ClassWorkSpace\\OOP2\\Lab\\Lab1\\Lab1_GitHub\\OOP2_Lab1\\OOP2_Lab1\\Relation.cs",
               "RelativeToolTip": "OOP2_Lab1\\Relation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T15:33:43.404Z",
               "EditorCaption": ""
@@ -63,20 +62,20 @@
               "RelativeDocumentMoniker": "OOP2_Lab1\\Person.cs",
               "ToolTip": "D:\\ClassWorkSpace\\OOP2\\Lab\\Lab1\\Lab1_GitHub\\OOP2_Lab1\\OOP2_Lab1\\Person.cs",
               "RelativeToolTip": "OOP2_Lab1\\Person.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAwwFQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T15:22:06.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\ClassWorkSpace\\OOP2\\Lab\\Lab1\\Lab1_GitHub\\OOP2_Lab1\\OOP2_Lab1\\Program.cs",
               "RelativeDocumentMoniker": "OOP2_Lab1\\Program.cs",
               "ToolTip": "D:\\ClassWorkSpace\\OOP2\\Lab\\Lab1\\Lab1_GitHub\\OOP2_Lab1\\OOP2_Lab1\\Program.cs",
               "RelativeToolTip": "OOP2_Lab1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T15:18:38.295Z",
               "EditorCaption": ""

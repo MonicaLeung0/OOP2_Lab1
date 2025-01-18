@@ -8,12 +8,14 @@ namespace OOP2_Lab1
 {
     internal class Relation
     {
-        enum RelationshipType
+        public enum RelationshipType
         {
             Sister, Brother, Mother, Father
         }
-        public Relation() 
+        RelationshipType relationshipType;
+        public Relation(RelationshipType type) 
         {
+            this.relationshipType = type;
         }
         /// <summary>
         /// accepts two Person objects and displays the relationship between them
@@ -22,7 +24,7 @@ namespace OOP2_Lab1
         /// <param name="PersonTwo"></param>
         public void ShowRelationShip(Person PersonOne, Person PersonTwo) 
         {
-           
+            Console.WriteLine($"Relationship between {PersonOne.firstName} and {PersonTwo.firstName} is: {relationshipType}hood");
         }
     }
 }
